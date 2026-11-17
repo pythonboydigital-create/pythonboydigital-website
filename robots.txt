@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pythonboydigital-create.github.io/pythonboydigital-website/sitemap.xml
